@@ -1,0 +1,16 @@
+Label,Description,X,Y,Z
+
+O-DR,outside door right,2.21,3.10,0.99
+O-DL,outside door left,2.21,0,1.00
+O-E,outside end,11.10,2.02,1.70
+O-M,outside mid,6.80,2.32,1.84
+
+I-DL,inside door left,-1.55,-0.09,1.00
+I-DR,inside door right,-1.55,3.19,1.00
+I-E,inside end,-13.30,0.90,0.64
+I-T1,inside top1,-9.88,-0.35,3.92
+I-T2,inside top2,-6.58,-0.35,3.92
+I-T3,inside top2,-2.00,-0.35,3.92
+
+
+
